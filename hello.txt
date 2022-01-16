@@ -9,4 +9,3 @@ hello git
 hello git
 hello git
 hello git
-这是在hot-fix分支上添加的代码，用于测试分支的切换情况
